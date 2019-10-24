@@ -48,7 +48,13 @@ es la carpeta de trabajo, y con git add pasamos al otro estado que es **_staging
 
 `git clon`: Lo que hace hacer una copia de desde el servidor central donde esta los archivos con los codigo a mi computadora local.
 
-_Es Link Oficial puenden descargar git:_
+`git log`: me visualiza los registro de los commit realizados.
+
+`git checkout -- archivo`:Devuelve los cambio ante del commit es decir pasa a su area inicial working directory es decir pasa staging area al primera area que es working directory.
+
+`git diff -- archivo`:Veo la diferencia de los archivos ante de commit inicial lo que hay staging area.
+
+Oficial puenden descargar git:\_
 [Git Descargar](https://git-scm.com/download/win 'Pagina Oficial')
 
 ##### final día V2.23.0
