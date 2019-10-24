@@ -29,6 +29,13 @@ es la carpeta de trabajo, y con git add pasamos al otro estado que es **_staging
 
 `git ini`: Se utiliza para crear un proyecto, O voy empezar a utilizar git en mi proyecto.
 
+#### Los comando de Configuración Inicial de `git config`
+
+`git config --global user.email`: Es sirve para configura el email de formal global de mi proyecto git.
+`git config --global user.name`: Se Utiliza para colocar el usuarios o nombre de programador en mi proyecto git.
+
+`git ini`: Se utiliza para crear un proyecto, O voy empezar a utilizar git en mi proyecto.
+
 `git add`: Su funcion es pasar los archivos desde working directory, a area dos staging area.
 
 `git status`: Es que me dice el estatus de mis archivo en que area, se encuentran mis archivos.
