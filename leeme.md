@@ -54,6 +54,11 @@ es la carpeta de trabajo, y con git add pasamos al otro estado que es **_staging
 
 `git diff -- archivo`:Veo la diferencia de los archivos ante de commit inicial lo que hay staging area.
 
+Informacion Inportates pa ignorar los archivos que no pasen de las arear o lo ignore mi controlador de versiones 
+tengo que crear el archivo .gitignore
+dentro de ese archivo coloco todos las carpetas o archivos que no van hacer tomando en cuenta por git.
+
+
 Oficial puenden descargar git:\_
 [Git Descargar](https://git-scm.com/download/win 'Pagina Oficial')
 
